@@ -113,7 +113,7 @@ Cuando no estoy programando, me gusta **entrenar en el gimnasio, seguir el merca
   </a>
 </p>
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 <p align="center">
   <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Unax-Zulaika-Fuente&theme=onedark" alt="GitHub Trophies" />
