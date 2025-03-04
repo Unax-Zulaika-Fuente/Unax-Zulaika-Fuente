@@ -1,3 +1,4 @@
+<!-- BANNER SUPERIOR (Centrado) -->
 <p align="center">
   <img src="./assets/animated-banner.gif" alt="Banner" width="100%" />
 </p>
@@ -5,10 +6,10 @@
   <img src="./assets/borderseparator.gif" width="100%"/>
 </p>
 
+<!-- TÍTULO ANIMADO DE BIENVENIDA (Centrado) -->
 <p align="center">
   <img src="./assets/animated-computer.gif" width="5%" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=2000&color=FF00FF&vCenter=true&width=750&lines=Hola%2C+soy+Zula%2C+bienvenidos+a+mi+perfil!" alt="Typing SVG" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=2000&color=FF00FF&vCenter=true&width=750&lines=Hola%2C+soy+Zula%2C+bienvenidos+a+mi+perfil!" alt="Typing SVG" />
   <img src="./assets/animated-computer.gif" width="5%" />
 </p>
 <p align="center">
@@ -17,16 +18,24 @@
 
 ## Acerca de mí
 
-¡Hola! Soy **Zula**, un desarrollador apasionado por las tecnologías web, móviles y de escritorio.  
-Me encanta aprender y trabajar con diferentes lenguajes y frameworks como Java, Angular, .NET, Python y muchos más.  
-Actualmente estoy aprendiendo **Electron** y **APIs de Google**.  
-Cuando no estoy programando, me encanta hacer deporte, ver series y jugar a videojuegos.
+¡Hola! Soy **Zula**, un desarrollador con experiencia en **desarrollo web, móvil y de escritorio**. Me gusta explorar diferentes lenguajes y frameworks como **Java, Angular, .NET, Python y más**, siempre buscando aprender nuevas tecnologías y mejorar mis habilidades.  
+
+Actualmente estoy aprendiendo **Electron y las APIs de Google** para ampliar mis conocimientos en el desarrollo de aplicaciones integradas con servicios en la nube.  
+
+### Más allá del código:  
+Cuando no estoy programando, me gusta **entrenar en el gimnasio, seguir el mercado de criptomonedas y el trading, jugar a videojuegos, ver anime y pasar el tiempo con mis amigos**.
 
 <p align="center">
   <img src="./assets/borderseparator.gif" width="100%"/>
 </p>
 
 ## 🛠️ Tecnologías y Herramientas
+
+<!-- GIF flotando a la derecha, con tamaño fijo (por ejemplo, 300px) -->
+<img src="./assets/night-cat.gif" alt="Night Cat"
+  align="right"
+  width="30%"
+  style="margin-left:10px; margin-bottom:10px;" />
 
 ### Lenguajes de programación que manejo
 <p>
@@ -89,8 +98,6 @@ Cuando no estoy programando, me encanta hacer deporte, ver series y jugar a vide
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=firebase&logoColor=white" alt="Firebase" />
 </p>
 
-*He utilizado el Developer Portal y DDragon de Riot para mis proyectos, así como otras APIs para diversas funcionalidades.*
-
 <p align="center">
   <img src="./assets/borderseparator.gif" width="100%"/>
 </p>
@@ -102,7 +109,7 @@ Cuando no estoy programando, me encanta hacer deporte, ver series y jugar a vide
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unax-Zulaika-Fuente&theme=tokyonight" alt="Top Langs" />
   </a>
   <a href="https://github.com/Unax-Zulaika-Fuente">
-    <img src="https://github-readme-stats.vercel.app/api?username=Unax-Zulaika-Fuente&show_icons=true&theme=tokyonight&line_height=27" alt="Unax-Zulaika-Fuente's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Unax-Zulaika-Fuente&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="Unax-Zulaika-Fuente's GitHub Stats" />
   </a>
 </p>
 
@@ -113,17 +120,6 @@ Cuando no estoy programando, me encanta hacer deporte, ver series y jugar a vide
 <p align="center">
   <img src="./assets/borderseparator.gif" width="100%"/>
 </p>
-
-<!-- ## Proyectos Destacados
-
-| Proyecto | Descripcion | Tecnologias |
-|----------|------------|-------------|
-| [Proyecto 1](https://github.com/Unax-Zulaika-Fuente/) | descripcion | NET, Angular |
-| [Proyecto 2](https://github.com/Unax-Zulaika-Fuente/) | descripcion | NET, Angular |
-
-<p align="center">
-  <img src="./assets/borderseparator.gif" width="100%"/>
-</p> -->
 
 ## Conecta conmigo
 
