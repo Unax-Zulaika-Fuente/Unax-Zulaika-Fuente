@@ -133,3 +133,9 @@ Cuando no estoy programando, me gusta **entrenar en el gimnasio, seguir el merca
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Unax-Zulaika-Fuente/Unax-Zulaika-Fuente/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Unax-Zulaika-Fuente/Unax-Zulaika-Fuente/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Unax-Zulaika-Fuente/Unax-Zulaika-Fuente/output/github-snake.svg" />
+</picture>
