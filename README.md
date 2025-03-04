@@ -104,17 +104,19 @@ Cuando no estoy programando, me gusta **entrenar en el gimnasio, seguir el merca
 
 ## Estadísticas de GitHub
 
-<p align="center">
+<p align="center" width="100%">
   <a href="https://github.com/Unax-Zulaika-Fuente">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unax-Zulaika-Fuente&theme=tokyonight" alt="Top Langs" />
+    <img alt="top langs" align="left" width="47%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unax-Zulaika-Fuente&layout=compact&theme=tokyonight&border_radius=10"/>
   </a>
   <a href="https://github.com/Unax-Zulaika-Fuente">
-    <img src="https://github-readme-stats.vercel.app/api?username=Unax-Zulaika-Fuente&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="Unax-Zulaika-Fuente's GitHub Stats" />
+    <img alt="my stats" align="left" width="47%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Unax-Zulaika-Fuente&show_icons=true&theme=tokyonight&count_private=true&rank_icon=github&border_radius=10&ring_color=FF00FF"/>
   </a>
 </p>
 
+<br><br><br><br><br><br><br><br>
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Unax-Zulaika-Fuente&theme=onedark" alt="GitHub Trophies" />
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Unax-Zulaika-Fuente&theme=onedark" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
