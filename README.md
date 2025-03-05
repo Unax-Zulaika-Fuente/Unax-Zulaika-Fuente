@@ -6,7 +6,6 @@
   <img src="./assets/borderseparator.gif" width="100%"/>
 </p>
 
-<!-- TÍTULO ANIMADO DE BIENVENIDA (Centrado) -->
 <p align="center">
   <img src="./assets/animated-computer.gif" width="5%" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=2000&color=FF00FF&vCenter=true&width=750&lines=Hola%2C+soy+Zula%2C+bienvenidos+a+mi+perfil!" alt="Typing SVG" />
@@ -16,6 +15,7 @@
   <img src="./assets/borderseparator.gif" width="100%"/>
 </p>
 
+<!-- Acerca de mí -->
 ## Acerca de mí
 
 ¡Hola! Soy **Zula**, un desarrollador con experiencia en **desarrollo web, móvil y de escritorio**. Me gusta explorar diferentes lenguajes y frameworks como **Java, Angular, .NET, Python y más**, siempre buscando aprender nuevas tecnologías y mejorar mis habilidades.  
@@ -29,9 +29,9 @@ Cuando no estoy programando, me gusta **entrenar en el gimnasio, seguir el merca
   <img src="./assets/borderseparator.gif" width="100%"/>
 </p>
 
+<!-- Tecnologías y Herramientas -->
 ## 🛠️ Tecnologías y Herramientas
 
-<!-- GIF flotando a la derecha, con tamaño fijo (por ejemplo, 300px) -->
 <img src="./assets/night-cat.gif" alt="Night Cat"
   align="right"
   width="30%"
@@ -102,6 +102,7 @@ Cuando no estoy programando, me gusta **entrenar en el gimnasio, seguir el merca
   <img src="./assets/borderseparator.gif" width="100%"/>
 </p>
 
+<!-- Estadísticas de GitHub -->
 ## Estadísticas de GitHub
 
 <p align="center" width="100%">
@@ -123,6 +124,7 @@ Cuando no estoy programando, me gusta **entrenar en el gimnasio, seguir el merca
   <img src="./assets/borderseparator.gif" width="100%"/>
 </p>
 
+<!-- Conecta conmigo -->
 ## Conecta conmigo
 
 <p align="center">
@@ -134,6 +136,7 @@ Cuando no estoy programando, me gusta **entrenar en el gimnasio, seguir el merca
   </a>
 </p>
 
+<!-- Snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Unax-Zulaika-Fuente/Unax-Zulaika-Fuente/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Unax-Zulaika-Fuente/Unax-Zulaika-Fuente/output/github-snake.svg" />
