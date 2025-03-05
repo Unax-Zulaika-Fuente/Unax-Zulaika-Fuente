@@ -1,4 +1,4 @@
-<!-- BANNER SUPERIOR (Centrado) -->
+<!-- BANNER SUPERIOR -->
 <p align="center">
   <img src="./assets/animated-banner.gif" alt="Banner" width="100%" />
 </p>
