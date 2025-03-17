@@ -138,6 +138,9 @@ Cuando no estoy programando, me gusta **entrenar en el gimnasio, seguir el merca
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Unax-Zulaika-Fuente&color=35286b" alt="Profile Views" />
+</p>
 <!-- Snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Unax-Zulaika-Fuente/Unax-Zulaika-Fuente/output/github-snake-dark.svg" />
